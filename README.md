@@ -53,7 +53,7 @@ Saya adalah **Fullstack Developer** dengan lebih dari **5 tahun pengalaman** dal
 ### 💼 Business Solutions
 - **🚚 Yasir Mandiri Distributor App** - Distribution management system
 - **🎓 Guru Berjuang ID Website** - Educational platform for teachers
-- **🚌 Jono Loket (Coming Soon 2025)** - Transportation booking system
+- **🚌 Moda Transportasi App (Coming Soon 2025)** - Transportation management system
 
 ## 📊 GitHub Stats
 
@@ -61,32 +61,23 @@ Saya adalah **Fullstack Developer** dengan lebih dari **5 tahun pengalaman** dal
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3BCode&layout=compact&theme=tokyonight)
 
-## 🎯 Expertise Areas
+## 🎯 What I Do
 
-```javascript
-const rikyYahdin = {
-    role: "Fullstack Developer & IT Director",
-    company: "CV. Tiga Berlian Code",
-    expertise: [
-        "Web Development (Laravel, Vue.js, Nuxt.js)",
-        "Mobile Development (Flutter, Android)",
-        "E-Government Solutions",
-        "Database Design & Management",
-        "Project Management",
-        "Team Leadership"
-    ],
-    currentProjects: [
-        "SIPGAM Village Management System",
-        "Jono Loket Transportation App",
-        "Government Digital Transformation"
-    ],
-    achievements: [
-        "5+ years in software development",
-        "10+ successful government projects",
-        "Leading IT company in Aceh region"
-    ]
-};
-```
+**Fullstack Development**
+- Web Applications with Laravel, Vue.js, Nuxt.js
+- Mobile Apps using Flutter & Android Native
+- Database Design & Management (MySQL, PostgreSQL)
+
+**Specialized In**
+- E-Government Solutions & Digital Transformation
+- Business Management Systems
+- Real-time Applications & Live Streaming
+- Project Management & Team Leadership
+
+**Current Focus**
+- SIPGAM Village Management System
+- Transportation Technology Solutions
+- Government Digital Infrastructure
 
 ## 🏅 Professional Certifications
 
